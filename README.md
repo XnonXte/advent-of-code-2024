@@ -5,5 +5,7 @@ All of my solutions are written in Python, so the prerequisites are simple. Just
 ## Example
 
 Run the code in day 1 with the input file to get the correct answer:
-    - `cd ./src/day_1`
-    - `python day_1.py input.txt`
+- `cd ./src/day_1`
+- `python day_1.py input.txt`
+
+Enjoy!
